@@ -9,14 +9,13 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="75%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="70%" />
 
 ## 📌 About Me
 
 - Problem-solving mindset
 - Focused on improving coding skills
 - Interested in real-world projects
-
 
 
 ## 📊 GitHub Stats
@@ -29,7 +28,9 @@
 
 </a>
 
-<img src="https://streak-stats.demolab.com/?user=bekwizgobisa321-lgtm&theme=dracula&hide_border=true&cache_seconds=86400" width="49%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=bekwizgobisa321-lgtm&theme=dracula&hide_border=true&cache_seconds=86400" width="70%" />
 
 </p>
 
