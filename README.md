@@ -109,6 +109,18 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<svg width="800" height="4" viewBox="0 0 1000 4" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="-300" y1="0" x2="-100" y2="0">
+      <stop offset="0%" stop-color="#c62828" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffebee" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#c62828" stop-opacity="0"/>
+      <animate attributeName="x1" values="-300;1300" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-100;1500" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1000" height="4" fill="#c62828" opacity="0.28"/>
+  <rect x="0" y="0" width="1000" height="4" fill="url(#g)"/>
+</svg>
 
 </div>
