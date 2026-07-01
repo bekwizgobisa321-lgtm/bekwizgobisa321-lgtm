@@ -15,6 +15,7 @@
 
 - Problem-solving mindset
 - Focused on improving coding skills
+- I am interested in building real-world projects that create useful solutions 
 
 
 
