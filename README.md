@@ -25,15 +25,15 @@
 
 <a href="https://github.com/bekwizgobisa321-lgtm">
 
-<!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bekwizgobisa321-lgtm&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" /> -->
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bekwizgobisa321-lgtm&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" />
 
 </a>
 
-<br/>
+<!-- <br/>
 
 <img src="https://streak-stats.demolab.com/?user=bekwizgobisa321-lgtm&theme=dracula&hide_border=true&cache_seconds=86400" width="70%" />
 
-</p>
+</p> -->
 
 ## 🛠️ Languages & Tools
 
