@@ -102,7 +102,7 @@
 
 ## 💬 Quote
 
-> Hello, coders! 👋 Keep learning, keep building, and keep improving.
+> Hello, coders! 👋
 
 <div align="center">
   <img
