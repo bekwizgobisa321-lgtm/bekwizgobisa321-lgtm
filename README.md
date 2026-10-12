@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">
   Hey
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" width="30" alt="Developer animation" />
@@ -111,4 +111,3 @@
     alt="Animated footer"
   />
 </div>
-```
